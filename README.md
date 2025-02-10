@@ -6,7 +6,7 @@
 - Utilizar una variable para almacenar el estado del LED.
 
 ### **Reto 2: Secuencia de LEDs (Chaser)**
-- Usar tres o más LEDs.
+- Usar 8 LEDs.
 - Al presionar el botón, los LEDs deben encenderse en secuencia.
 - Al soltarlo, los LEDs deben apagarse en orden inverso.
 
