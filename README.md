@@ -5,7 +5,7 @@
 - Cada vez que se presione el botón, el LED cambiará de estado (si está apagado, se enciende, y viceversa).
 - Utilizar una variable para almacenar el estado del LED.
 
-### **Reto 2: Secuencia de LEDs (Chaser)**
+### **Reto 2: Secuencia de LEDs**
 - Usar 8 LEDs.
 - Al presionar el botón, los LEDs deben encenderse en secuencia.
 - Al soltarlo, los LEDs deben apagarse en orden inverso.
